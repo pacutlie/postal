@@ -45,6 +45,6 @@ group :development do
   gem 'annotate'
   gem 'rspec'
   gem 'rspec-rails'
-  gem "factory_bot_rails", "~> 4.0"
+  gem "factory_bot_rails", "~> 6.5", ">= 6.5.0"
   gem "database_cleaner"
 end
